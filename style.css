@@ -27,7 +27,8 @@
 .con3{
     height: 60px;
     width: 60%;
-    margin-left: 150px;   
+    margin-left: 150px;  
+
 }
 .con4{
     margin:6px 0 0 150px;
@@ -115,16 +116,20 @@
     font-style: normal;
     font-weight: 300;
     line-height: 15px;
+    margin-top: -50px;
 }
 .btn{
     border-radius: 5px;
     background: #E55473;
-}.btn1{
+}.btn2{
     color: #FFF;
     font-family: Lato;
     font-size: 14px;
     display: inline-flex;
     padding: 10px 13px;
+}
+.btn21{
+    margin-top: -70px;
 }
 .head4{
     text-align: center;
